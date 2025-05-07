@@ -1,4 +1,4 @@
-# BSides Ballarat 2024 Conference Notes
+# BSides Ballarat 2025 Conference Notes
 
 ## Overview
 This repository contains comprehensive notes and photos from the BSides Ballarat security conference held on 3rd-4th May 2024. These notes are intended to share knowledge with the security community and serve as a reference for the valuable insights gained during the event.
