@@ -1,13 +1,13 @@
 # BSides Ballarat 2025 Conference Notes
 
 ## Overview
-This repository contains comprehensive notes and photos from the BSides Ballarat security conference held on 3rd-4th May 2024. These notes are intended to share knowledge with the security community and serve as a reference for the valuable insights gained during the event.
+This repository contains comprehensive notes and photos from the BSides Ballarat security conference held on 3rd-4th May 2025. These notes are intended to share knowledge with the security community and serve as a reference for the valuable insights gained during the event.
 
 ## Contents
 
 ### Conference Notes
-- [Day 1 Notes](day1-notes.md) - Saturday, 3rd May 2024
-- [Day 2 Notes](day2-notes.md) - Sunday, 4th May 2024
+- [Day 1 Notes](day1-notes.md) - Saturday, 3rd May 2025
+- [Day 2 Notes](day2-notes.md) - Sunday, 4th May 2025
 
 ### Key Sessions Covered
 
@@ -36,7 +36,7 @@ The repository includes conference photos organized by day and session in the `i
 
 ## Repository Structure
 ```
-bsides-ballarat-2024/
+bsides-ballarat-2025/
 ├── README.md
 ├── day1-notes.md
 ├── day2-notes.md
@@ -68,4 +68,4 @@ These notes represent my personal understanding and interpretation of the confer
 This repository is intended for knowledge sharing within the cybersecurity community. While the notes are freely available, the conference content and any associated materials belong to their respective presenters and BSides Ballarat.
 
 ## Acknowledgements
-Special thanks to all presenters at BSides Ballarat 2024 for sharing their knowledge and insights with the community.
+Special thanks to all presenters at BSides Ballarat 2025 for sharing their knowledge and insights with the community.
